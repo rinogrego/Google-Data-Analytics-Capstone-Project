@@ -2,12 +2,12 @@
 
 Capstone Project of Google Data Analytics Program by Coursera.
 This is a repository where I did my analysis project by following through the data analysis process taught in the certification program which consists of:
-    1. Ask
-    2. Prepare
-    3. Process
-    4. Analyze
-    5. Share
-    6. Act
+    - Ask
+    - Prepare
+    - Process
+    - Analyze
+    - Share
+    - Act
 
 ## Project 1 - How Does a Bike-Share Navigate Speedy Success?
 
