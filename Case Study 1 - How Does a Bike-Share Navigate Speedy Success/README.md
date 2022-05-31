@@ -24,4 +24,7 @@ The data suggests that there is a difference in behaviour between annual members
 
 **Clark St & Elm St**, **Wells St & Concord Ln**, and **Wells St & Elm St** are the potential locations for our marketing team to convert casual riders into member riders the most compared to another stations. 
 
-<!-- ## Project 2 -->
+### To be Analyzed Further
+
+- The most effective hours to do advertising within the area of the stations found
+- For each month, find the trend of time where member riders are the most active (e.g. maybe member riders are the most active in July, so try to advertise around that time in order to maximize the conversion rate of casual riders to member riders)
