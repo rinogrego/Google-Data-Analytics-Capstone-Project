@@ -52,4 +52,5 @@ There are some questions that can be find and further help the marketing program
 - The most effective hours to do advertising within the area of the stations found
 - For each month, find the trend of time where member riders are the most active (e.g. maybe member riders are the most active in July, so try to advertise around that time in order to maximize the conversion rate of casual riders to member riders)
 
-A Power BI dashboard is created that can answer those 2 additional questions.
+A Power BI dashboard is created that can answer those 2 additional questions and also providing more information about the difference between casual riders and member riders.
+![Power BI Dashboard](./results/Rider_Analytic_Dashboard.PNG)
